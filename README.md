@@ -1,6 +1,6 @@
 ## Key Word Cheatsheet
 
-- **Function**
+- ### **Function**
  - A function is a block of code (usually denoted by the word "function", or =>). This block of code will do be written in order to do something specific. For Example:
  `function getSomeSleep() { return "zzz..."}`
  - Above, we wrote the `getSomeSleep` function, but have not yet made it run.  It will only run once being invoked.
