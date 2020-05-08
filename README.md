@@ -1,4 +1,4 @@
-##Key Word Cheatsheet
+## Key Word Cheatsheet
 
 - **Function**
  - A function is a block of code (usually denoted by the word "function", or =>). This block of code will do be written in order to do something specific. For Example:
